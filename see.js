@@ -1,2 +1,2 @@
-see.js
-print("Work hard to reach your goals!")
+
+print("Work hard to reach your goals!") 
